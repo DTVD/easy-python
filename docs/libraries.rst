@@ -391,6 +391,21 @@ Libraries for building command line utilities.
 .. _clint: https://github.com/kennethreitz/clint
 
 
+Twitter
+-------
+
+Libraries and software for interacting with Twitter API.
+
+- `Python Twitter Tool`_ - Twitter API, command-line tool, and IRC bot.
+- `Tweepy`_ - An easy-to-use Python library for accessing the Twitter API.
+- `Rainbow Stream`_ - Smart and nice Twitter client on terminal.
+
+
+.. _Python Twitter Tool: http://mike.verdone.ca/twitter/#downloads
+.. _Tweepy: http://www.tweepy.org/
+.. _Rainbow Stream: http://www.rainbowstream.org/
+
+
 Authentication
 --------------
 
